@@ -1,3 +1,4 @@
+import express from "express"
 import customerRoutes from "./src/routes/customer.js"
 import registerCustomerRoutes from "./src/routes/registerCustomer.js"
 
